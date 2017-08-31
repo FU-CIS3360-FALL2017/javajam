@@ -4,4 +4,4 @@ Begin by following the instructions for the start of this website case study fou
 ## Submission
 Name your commits beginning with a designation of the chapter that you are working on since your final version of your case study will most probably have many commits; e.g., CH2. After the last time you commit your work on this project from a particular chapter, add an 'at mention' to the commit comment so that I will received a notification that you are ready for it to be graded.
 ## URL For Student Copy of Repository
-https://fu-cis3360-2017.github.io/javajam-<student account name>
+https://fu-cis3360-2017.github.io/javajam- concatenated after the hypen with student account name
